@@ -31,7 +31,7 @@
 print("Hello world")
 
 ```
-![image](https://github.com/RomanGleizer/Data-analysis-in-game-development/assets/125725530/9aa19c1e-13b8-44cf-ba38-9afaec509992)
+![image](https://github.com/RomanGleizer/Data-analysis-in-game-development/assets/125725530/7f3a4b96-8b3b-41a6-a4aa-abf07b7294a2)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
